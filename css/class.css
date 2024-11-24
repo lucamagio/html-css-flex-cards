@@ -16,7 +16,7 @@
 
 .email{
     color:darkcyan;
-    font-size: small;
+    font-size: 80%;
 }
 
 .info{
@@ -27,6 +27,6 @@
 .work{
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: small
+    font-size: 80%;
 }
 

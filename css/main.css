@@ -28,6 +28,7 @@ div{
     color: white;
     display: flex;
     align-items: center;
+    min-width: 240px;
     max-width: calc((100% / 3) - 15px);
     column-gap: 10px;
     margin-left: 10px;
@@ -35,5 +36,6 @@ div{
 }
 
 img{
-    width: 33%;
+    width: 88.03px;
+    max-width: 100%;
 }
